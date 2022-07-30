@@ -6,7 +6,7 @@
 
 section {
     width: 75%;
-    margin: 0 auto;
+    margin: 210px auto;
 }
 
 
@@ -47,4 +47,7 @@ section {
 .blog-grid-container-children h3 {
     text-align: center;
     margin-top: 15px;
+}
+ hr {
+    border-top: 2px solid black;
 }
