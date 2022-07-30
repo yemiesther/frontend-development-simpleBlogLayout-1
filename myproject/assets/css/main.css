@@ -15,10 +15,6 @@ section {
     place-items: center;
 }
 
-.blog {
-
-}
-
 .blog-heading {
     font-family: 'New York Extra Large';
     font-style: normal;
@@ -30,7 +26,6 @@ section {
     margin-top: 44px;
     margin-bottom: 32px;
 }
-
 
 .blog-grid-container {
     display: flex;
@@ -47,7 +42,4 @@ section {
 .blog-grid-container-children h3 {
     text-align: center;
     margin-top: 15px;
-}
- hr {
-    border-top: 2px solid black;
 }
